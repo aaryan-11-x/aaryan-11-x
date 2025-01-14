@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaryan-11-x
 - 👀 I’m interested in Cyber Security, Python, Linux, etc.
 - 🌱 I’m currently learning Web App Pentesting, VAPT, Application Security, etc.
-- 💻 Languages: Python, Java, PHP, C, Assembly
+- 💻 Languages: Python, Ruby, PHP, C, Assembly
 
 <!---
 aaryan-11-x/aaryan-11-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
