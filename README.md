@@ -35,7 +35,7 @@ I’m a passionate **Cybersecurity Professional** currently pursuing my **B.Tech
 
 ## 🔍 Personal Projects
 
-### 🚨 [Insight Shield](https://github.com/TanZeus/great-insider/tree/InsightShield)
+### 🚨 [Insight Shield](https://github.com/aaryan-11-x/great-insider)
 
 * **A Python-based tool & a web platform for vulnerability analysis**, automating categorization and generating detailed risk assessment reports to support effective remediation.
 
