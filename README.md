@@ -1,6 +1,6 @@
 # Hi, I'm Aaryan Golatkar 👋
 
-### 💻 **Cybersecurity Analyst | Red Team Leader | Tech Enthusiast**
+### 💻 **Cybersecurity Analyst | Penetration Tester | Tech Enthusiast**
 
 ---
 
