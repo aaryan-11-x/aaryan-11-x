@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-I’m a passionate **Cybersecurity Professional** who has recently graduated with a degree in **B.Tech in Computer Engineering** (Honours in Cyber Security & Forensics) at **K. J. Somaiya College of Engineering, Mumbai**. I specialize in web security, network security, red teaming, and developing cybersecurity solutions that safeguard digital landscapes.
+I’m a passionate **Cybersecurity Professional** who has recently graduated with a degree in **B.Tech in Computer Engineering** (Honours in Cyber Security & Forensics) at **K. J. Somaiya College of Engineering, Mumbai**. I specialize in web security, network security, active directory hacking, and developing cybersecurity solutions that safeguard digital landscapes.
 
 ---
 
