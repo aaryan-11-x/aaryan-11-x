@@ -27,6 +27,7 @@ I’m a passionate **Cybersecurity Professional** who has recently graduated wit
 
 ## 🚀 Certifications
 
+* 🧪 [**Certified Penetration Testing Specialist (CPTS)**](https://www.credly.com/badges/3aa8220c-b6c2-4b9f-86ae-f4c687746947/public_url)
 * 🔐 [**OffSec Certified Professional (OSCP)**](https://www.credential.net/d1129b38-d4d3-4636-a1f3-a2f30c685de9#gs.d4jhnz)
 * 🛡️ [**ISC² Certified in Cybersecurity**](https://www.credly.com/badges/210fee46-b35c-4d0e-830f-45391f75301b/public_url)
 * 📜 [**Google Cybersecurity Certificate**](https://www.credly.com/badges/d0497ba4-e8e4-45e1-9a3d-3c5c251a8961/linked_in_profile)
